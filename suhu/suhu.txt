@@ -1,1 +1,7 @@
-
+Senin;31
+Selasa;33
+Rabu;29
+Kamis;35
+Jumat;32
+Sabtu;30
+Minggu;28
