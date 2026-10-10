@@ -1,1 +1,74 @@
-
+# tanggal|nim|nama|status
+2026-09-02|2517052031|Bunga Permata Sari|hadir
+2026-09-02|2517052005|Nadia Delta Amanda|hadir
+2026-09-02|2517052009|Maimuna Yulianti|hadir
+2026-09-02|2517052014|Erni Mayasari|hadir
+2026-09-02|2517052018|Bunga Wulan Sari|hadir
+2026-09-02|2517052022|Rahul Hukama Zulda|hadir
+2026-09-02|2517052027|Muhammad Dzulqornain|hadir
+2026-09-02|2517052036|Suhatio Harianja|alpa
+2026-09-02|2517052040|Arifah Kamilia Putri|hadir
+2026-09-02|2517052044|Dinata Hendra Ramadhan|hadir
+2026-09-02|2517052048|Tegar Pasetya|hadir
+2026-09-02|2517052052|Ragil Aditya Saputra|alpa
+2026-09-09|2517052031|Bunga Permata Sari|hadir
+2026-09-09|2517052005|Nadia Delta Amanda|hadir
+2026-09-09|2517052009|Maimuna Yulianti|sakit
+2026-09-09|2517052014|Erni Mayasari|hadir
+2026-09-09|2517052018|Bunga Wulan Sari|hadir
+2026-09-09|2517052022|Rahul Hukama Zulda|alpa
+2026-09-09|2517052027|Muhammad Dzulqornain|hadir
+2026-09-09|2517052036|Suhatio Harianja|hadir
+2026-09-09|2517052040|Arifah Kamilia Putri|hadir
+2026-09-09|2517052044|Dinata Hendra Ramadhan|alpa
+2026-09-09|2517052048|Tegar Pasetya|hadir
+2026-09-09|2517052052|Ragil Aditya Saputra|hadir
+2026-09-16|2517052031|Bunga Permata Sari|hadir
+2026-09-16|2517052005|Nadia Delta Amanda|izin
+2026-09-16|2517052009|Maimuna Yulianti|hadir
+2026-09-16|2517052014|Erni Mayasari|hadir
+2026-09-16|2517052018|Bunga Wulan Sari|alpa
+2026-09-16|2517052022|Rahul Hukama Zulda|hadir
+2026-09-16|2517052027|Muhammad Dzulqornain|hadir
+2026-09-16|2517052036|Suhatio Harianja|hadir
+2026-09-16|2517052040|Arifah Kamilia Putri|sakit
+2026-09-16|2517052044|Dinata Hendra Ramadhan|alpa
+2026-09-16|2517052048|Tegar Pasetya|hadir
+2026-09-16|2517052052|Ragil Aditya Saputra|alpa
+2026-09-23|2517052031|Bunga Permata Sari|hadir
+2026-09-23|2517052005|Nadia Delta Amanda|hadir
+2026-09-23|2517052009|Maimuna Yulianti|hadir
+2026-09-23|2517052014|Erni Mayasari|hadir
+2026-09-23|2517052018|Bunga Wulan Sari|hadir
+2026-09-23|2517052022|Rahul Hukama Zulda|hadir
+2026-09-23|2517052027|Muhammad Dzulqornain|izin
+2026-09-23|2517052036|Suhatio Harianja|alpa
+2026-09-23|2517052040|Arifah Kamilia Putri|hadir
+2026-09-23|2517052044|Dinata Hendra Ramadhan|hadir
+2026-09-23|2517052048|Tegar Pasetya|hadir
+2026-09-23|2517052052|Ragil Aditya Saputra|sakit
+2026-09-30|2517052031|Bunga Permata Sari|hadir
+2026-09-30|2517052005|Nadia Delta Amanda|hadir
+2026-09-30|2517052009|Maimuna Yulianti|hadir
+2026-09-30|2517052014|Erni Mayasari|izin
+2026-09-30|2517052018|Bunga Wulan Sari|hadir
+2026-09-30|2517052022|Rahul Hukama Zulda|sakit
+2026-09-30|2517052027|Muhammad Dzulqornain|hadir
+2026-09-30|2517052036|Suhatio Harianja|hadir
+2026-09-30|2517052040|Arifah Kamilia Putri|hadir
+2026-09-30|2517052044|Dinata Hendra Ramadhan|izin
+2026-09-30|2517052048|Tegar Pasetya|alpa
+2026-09-30|2517052052|Ragil Aditya Saputra|hadir
+2026-10-07|2517052031|Bunga Permata Sari|hadir
+2026-10-07|2517052005|Nadia Delta Amanda|hadir
+2026-10-07|2517052009|Maimuna Yulianti|hadir
+2026-10-07|2517052014|Erni Mayasari|hadir
+2026-10-07|2517052018|Bunga Wulan Sari|hadir
+2026-10-07|2517052022|Rahul Hukama Zulda|hadir
+2026-10-07|2517052027|Muhammad Dzulqornain|hadir
+2026-10-07|2517052036|Suhatio Harianja|sakit
+2026-10-07|2517052040|Arifah Kamilia Putri|hadir
+2026-10-07|2517052044|Dinata Hendra Ramadhan|hadir
+2026-10-07|2517052048|Tegar Pasetya|hadir
+2026-10-07|2517052052|Ragil Aditya Saputra|alpa
+2026-10-07|abc|Contoh Rusak|hadir
