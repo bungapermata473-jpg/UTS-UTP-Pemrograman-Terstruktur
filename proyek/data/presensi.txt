@@ -1,74 +1,212 @@
 # tanggal|nim|nama|status
 2026-09-02|2517052031|Bunga Permata Sari|hadir
-2026-09-02|2517052005|Nadia Delta Amanda|hadir
-2026-09-02|2517052009|Maimuna Yulianti|hadir
-2026-09-02|2517052014|Erni Mayasari|hadir
-2026-09-02|2517052018|Bunga Wulan Sari|hadir
-2026-09-02|2517052022|Rahul Hukama Zulda|hadir
-2026-09-02|2517052027|Muhammad Dzulqornain|hadir
-2026-09-02|2517052036|Suhatio Harianja|alpa
-2026-09-02|2517052040|Arifah Kamilia Putri|hadir
-2026-09-02|2517052044|Dinata Hendra Ramadhan|hadir
-2026-09-02|2517052048|Tegar Pasetya|hadir
-2026-09-02|2517052052|Ragil Aditya Saputra|alpa
+2026-09-02|2517052010|Nadia Delta Amanda|hadir
+2026-09-02|2517052026|Maimuna Yulianti|hadir
+2026-09-02|2517052015|Ricky Darmawan|hadir
+2026-09-02|2517052017|Ragil Aditya Saputra|hadir
+2026-09-02|2517052014|Putria Alya Maharani|hadir
+2026-09-02|2517052029|Audi Putri Cressya|hadir
+2026-09-02|2517052030|Rahul Hukama Zulda|hadir
+2026-09-02|2517052033|Suhatio Harianja|izin
+2026-09-02|2517052041|Arifah Kamilia Aulia|hadir
+2026-09-02|2517052004|Naila Zahrah Ramadhani|hadir
+2026-09-02|2517052005|Variza Agustin Rachmedita|hadir
+2026-09-02|2517052018|Hofifah Indar Parawansa|izin
+2026-09-02|2517052036|Rista Aprilia|hadir
+2026-09-02|2517052021|Bunga Wulan Sari|hadir
+2026-09-02|2517052025|Devina Adelia Putri|hadir
+2026-09-02|2517052027|Nur Elia Sofia|hadir
+2026-09-02|2517052037|Muhammad Ibnu Pratama Putra|hadir
+2026-09-02|2517052028|Tegar Prasetya Ramadhan Murti|izin
+2026-09-02|2517052016|Muhammad Naufal Rofiqurrohim|sakit
+2026-09-02|2517052001|Akbar Rohman Fadilah|hadir
+2026-09-02|2517052013|A Gusti Sahwan Zaki|hadir
+2026-09-02|2517052007|Maulana Zidan Fernandi|hadir
+2026-09-02|2517052009|Ahmad Sidiq Febriansyah|hadir
+2026-09-02|2517052003|Erni Mayasari|hadir
+2026-09-02|2517052011|Chelsea Alifah Islamy Munawar|hadir
+2026-09-02|2517052008|Yasmin|hadir
+2026-09-02|2517052012|Zahra Chintya Bela|hadir
+2026-09-02|2517052016|Iztihadi|hadir
+2026-09-02|2517052006|Safira Rizki Putri|hadir
+2026-09-02|2517052023|Hanif Sulton Aulia Marlen|hadir
+2026-09-02|2517052034|Ramadian Pasesa|hadir
+2026-09-02|2517052019|Elfrada P Napitupulu|alpa
+2026-09-02|2517052022|Dinata Hendra Ramadhan|hadir
+2026-09-02|2517052024|Rudhi|izin
 2026-09-09|2517052031|Bunga Permata Sari|hadir
-2026-09-09|2517052005|Nadia Delta Amanda|hadir
-2026-09-09|2517052009|Maimuna Yulianti|sakit
-2026-09-09|2517052014|Erni Mayasari|hadir
-2026-09-09|2517052018|Bunga Wulan Sari|hadir
-2026-09-09|2517052022|Rahul Hukama Zulda|alpa
-2026-09-09|2517052027|Muhammad Dzulqornain|hadir
-2026-09-09|2517052036|Suhatio Harianja|hadir
-2026-09-09|2517052040|Arifah Kamilia Putri|hadir
-2026-09-09|2517052044|Dinata Hendra Ramadhan|alpa
-2026-09-09|2517052048|Tegar Pasetya|hadir
-2026-09-09|2517052052|Ragil Aditya Saputra|hadir
+2026-09-09|2517052010|Nadia Delta Amanda|hadir
+2026-09-09|2517052026|Maimuna Yulianti|hadir
+2026-09-09|2517052015|Ricky Darmawan|izin
+2026-09-09|2517052017|Ragil Aditya Saputra|hadir
+2026-09-09|2517052014|Putria Alya Maharani|hadir
+2026-09-09|2517052029|Audi Putri Cressya|alpa
+2026-09-09|2517052030|Rahul Hukama Zulda|hadir
+2026-09-09|2517052033|Suhatio Harianja|izin
+2026-09-09|2517052041|Arifah Kamilia Aulia|hadir
+2026-09-09|2517052004|Naila Zahrah Ramadhani|hadir
+2026-09-09|2517052005|Variza Agustin Rachmedita|hadir
+2026-09-09|2517052018|Hofifah Indar Parawansa|hadir
+2026-09-09|2517052036|Rista Aprilia|alpa
+2026-09-09|2517052021|Bunga Wulan Sari|hadir
+2026-09-09|2517052025|Devina Adelia Putri|sakit
+2026-09-09|2517052027|Nur Elia Sofia|hadir
+2026-09-09|2517052037|Muhammad Ibnu Pratama Putra|hadir
+2026-09-09|2517052028|Tegar Prasetya Ramadhan Murti|hadir
+2026-09-09|2517052016|Muhammad Naufal Rofiqurrohim|alpa
+2026-09-09|2517052001|Akbar Rohman Fadilah|hadir
+2026-09-09|2517052013|A Gusti Sahwan Zaki|hadir
+2026-09-09|2517052007|Maulana Zidan Fernandi|hadir
+2026-09-09|2517052009|Ahmad Sidiq Febriansyah|hadir
+2026-09-09|2517052003|Erni Mayasari|hadir
+2026-09-09|2517052011|Chelsea Alifah Islamy Munawar|hadir
+2026-09-09|2517052008|Yasmin|hadir
+2026-09-09|2517052012|Zahra Chintya Bela|hadir
+2026-09-09|2517052016|Iztihadi|hadir
+2026-09-09|2517052006|Safira Rizki Putri|hadir
+2026-09-09|2517052023|Hanif Sulton Aulia Marlen|alpa
+2026-09-09|2517052034|Ramadian Pasesa|hadir
+2026-09-09|2517052019|Elfrada P Napitupulu|hadir
+2026-09-09|2517052022|Dinata Hendra Ramadhan|hadir
+2026-09-09|2517052024|Rudhi|hadir
 2026-09-16|2517052031|Bunga Permata Sari|hadir
-2026-09-16|2517052005|Nadia Delta Amanda|izin
-2026-09-16|2517052009|Maimuna Yulianti|hadir
-2026-09-16|2517052014|Erni Mayasari|hadir
-2026-09-16|2517052018|Bunga Wulan Sari|alpa
-2026-09-16|2517052022|Rahul Hukama Zulda|hadir
-2026-09-16|2517052027|Muhammad Dzulqornain|hadir
-2026-09-16|2517052036|Suhatio Harianja|hadir
-2026-09-16|2517052040|Arifah Kamilia Putri|sakit
-2026-09-16|2517052044|Dinata Hendra Ramadhan|alpa
-2026-09-16|2517052048|Tegar Pasetya|hadir
-2026-09-16|2517052052|Ragil Aditya Saputra|alpa
+2026-09-16|2517052010|Nadia Delta Amanda|hadir
+2026-09-16|2517052026|Maimuna Yulianti|alpa
+2026-09-16|2517052015|Ricky Darmawan|hadir
+2026-09-16|2517052017|Ragil Aditya Saputra|hadir
+2026-09-16|2517052014|Putria Alya Maharani|hadir
+2026-09-16|2517052029|Audi Putri Cressya|hadir
+2026-09-16|2517052030|Rahul Hukama Zulda|hadir
+2026-09-16|2517052033|Suhatio Harianja|hadir
+2026-09-16|2517052041|Arifah Kamilia Aulia|sakit
+2026-09-16|2517052004|Naila Zahrah Ramadhani|hadir
+2026-09-16|2517052005|Variza Agustin Rachmedita|alpa
+2026-09-16|2517052018|Hofifah Indar Parawansa|hadir
+2026-09-16|2517052036|Rista Aprilia|hadir
+2026-09-16|2517052021|Bunga Wulan Sari|hadir
+2026-09-16|2517052025|Devina Adelia Putri|alpa
+2026-09-16|2517052027|Nur Elia Sofia|hadir
+2026-09-16|2517052037|Muhammad Ibnu Pratama Putra|sakit
+2026-09-16|2517052028|Tegar Prasetya Ramadhan Murti|hadir
+2026-09-16|2517052016|Muhammad Naufal Rofiqurrohim|hadir
+2026-09-16|2517052001|Akbar Rohman Fadilah|izin
+2026-09-16|2517052013|A Gusti Sahwan Zaki|hadir
+2026-09-16|2517052007|Maulana Zidan Fernandi|izin
+2026-09-16|2517052009|Ahmad Sidiq Febriansyah|izin
+2026-09-16|2517052003|Erni Mayasari|hadir
+2026-09-16|2517052011|Chelsea Alifah Islamy Munawar|hadir
+2026-09-16|2517052008|Yasmin|sakit
+2026-09-16|2517052012|Zahra Chintya Bela|hadir
+2026-09-16|2517052016|Iztihadi|hadir
+2026-09-16|2517052006|Safira Rizki Putri|hadir
+2026-09-16|2517052023|Hanif Sulton Aulia Marlen|hadir
+2026-09-16|2517052034|Ramadian Pasesa|hadir
+2026-09-16|2517052019|Elfrada P Napitupulu|hadir
+2026-09-16|2517052022|Dinata Hendra Ramadhan|hadir
+2026-09-16|2517052024|Rudhi|hadir
 2026-09-23|2517052031|Bunga Permata Sari|hadir
-2026-09-23|2517052005|Nadia Delta Amanda|hadir
-2026-09-23|2517052009|Maimuna Yulianti|hadir
-2026-09-23|2517052014|Erni Mayasari|hadir
-2026-09-23|2517052018|Bunga Wulan Sari|hadir
-2026-09-23|2517052022|Rahul Hukama Zulda|hadir
-2026-09-23|2517052027|Muhammad Dzulqornain|izin
-2026-09-23|2517052036|Suhatio Harianja|alpa
-2026-09-23|2517052040|Arifah Kamilia Putri|hadir
-2026-09-23|2517052044|Dinata Hendra Ramadhan|hadir
-2026-09-23|2517052048|Tegar Pasetya|hadir
-2026-09-23|2517052052|Ragil Aditya Saputra|sakit
+2026-09-23|2517052010|Nadia Delta Amanda|hadir
+2026-09-23|2517052026|Maimuna Yulianti|sakit
+2026-09-23|2517052015|Ricky Darmawan|hadir
+2026-09-23|2517052017|Ragil Aditya Saputra|alpa
+2026-09-23|2517052014|Putria Alya Maharani|hadir
+2026-09-23|2517052029|Audi Putri Cressya|hadir
+2026-09-23|2517052030|Rahul Hukama Zulda|sakit
+2026-09-23|2517052033|Suhatio Harianja|hadir
+2026-09-23|2517052041|Arifah Kamilia Aulia|hadir
+2026-09-23|2517052004|Naila Zahrah Ramadhani|hadir
+2026-09-23|2517052005|Variza Agustin Rachmedita|hadir
+2026-09-23|2517052018|Hofifah Indar Parawansa|sakit
+2026-09-23|2517052036|Rista Aprilia|hadir
+2026-09-23|2517052021|Bunga Wulan Sari|hadir
+2026-09-23|2517052025|Devina Adelia Putri|hadir
+2026-09-23|2517052027|Nur Elia Sofia|hadir
+2026-09-23|2517052037|Muhammad Ibnu Pratama Putra|hadir
+2026-09-23|2517052028|Tegar Prasetya Ramadhan Murti|hadir
+2026-09-23|2517052016|Muhammad Naufal Rofiqurrohim|hadir
+2026-09-23|2517052001|Akbar Rohman Fadilah|izin
+2026-09-23|2517052013|A Gusti Sahwan Zaki|hadir
+2026-09-23|2517052007|Maulana Zidan Fernandi|hadir
+2026-09-23|2517052009|Ahmad Sidiq Febriansyah|hadir
+2026-09-23|2517052003|Erni Mayasari|hadir
+2026-09-23|2517052011|Chelsea Alifah Islamy Munawar|hadir
+2026-09-23|2517052008|Yasmin|alpa
+2026-09-23|2517052012|Zahra Chintya Bela|hadir
+2026-09-23|2517052016|Iztihadi|hadir
+2026-09-23|2517052006|Safira Rizki Putri|hadir
+2026-09-23|0000000002|Hanif Sulton Aulia Marlen|hadir
+2026-09-23|2517052034|Ramadian Pasesa|izin
+2026-09-23|2517052019|Elfrada P Napitupulu|hadir
+2026-09-23|2517052022|Dinata Hendra Ramadhan|hadir
+2026-09-23|2517052024|Rudhi|hadir
 2026-09-30|2517052031|Bunga Permata Sari|hadir
-2026-09-30|2517052005|Nadia Delta Amanda|hadir
-2026-09-30|2517052009|Maimuna Yulianti|hadir
-2026-09-30|2517052014|Erni Mayasari|izin
-2026-09-30|2517052018|Bunga Wulan Sari|hadir
-2026-09-30|2517052022|Rahul Hukama Zulda|sakit
-2026-09-30|2517052027|Muhammad Dzulqornain|hadir
-2026-09-30|2517052036|Suhatio Harianja|hadir
-2026-09-30|2517052040|Arifah Kamilia Putri|hadir
-2026-09-30|2517052044|Dinata Hendra Ramadhan|izin
-2026-09-30|2517052048|Tegar Pasetya|alpa
-2026-09-30|2517052052|Ragil Aditya Saputra|hadir
+2026-09-30|2517052010|Nadia Delta Amanda|hadir
+2026-09-30|2517052026|Maimuna Yulianti|hadir
+2026-09-30|2517052015|Ricky Darmawan|hadir
+2026-09-30|2517052017|Ragil Aditya Saputra|hadir
+2026-09-30|2517052014|Putria Alya Maharani|hadir
+2026-09-30|2517052029|Audi Putri Cressya|hadir
+2026-09-30|2517052030|Rahul Hukama Zulda|hadir
+2026-09-30|2517052033|Suhatio Harianja|hadir
+2026-09-30|2517052041|Arifah Kamilia Aulia|hadir
+2026-09-30|2517052004|Naila Zahrah Ramadhani|hadir
+2026-09-30|2517052005|Variza Agustin Rachmedita|hadir
+2026-09-30|2517052018|Hofifah Indar Parawansa|sakit
+2026-09-30|2517052036|Rista Aprilia|hadir
+2026-09-30|2517052021|Bunga Wulan Sari|izin
+2026-09-30|2517052025|Devina Adelia Putri|alpa
+2026-09-30|2517052027|Nur Elia Sofia|hadir
+2026-09-30|2517052037|Muhammad Ibnu Pratama Putra|sakit
+2026-09-30|2517052028|Tegar Prasetya Ramadhan Murti|alpa
+2026-09-30|2517052016|Muhammad Naufal Rofiqurrohim|hadir
+2026-09-30|2517052001|Akbar Rohman Fadilah|sakit
+2026-09-30|2517052013|A Gusti Sahwan Zaki|hadir
+2026-09-30|2517052007|Maulana Zidan Fernandi|hadir
+2026-09-30|2517052009|Ahmad Sidiq Febriansyah|izin
+2026-09-30|2517052003|Erni Mayasari|hadir
+2026-09-30|2517052011|Chelsea Alifah Islamy Munawar|hadir
+2026-09-30|2517052008|Yasmin|hadir
+2026-09-30|2517052012|Zahra Chintya Bela|hadir
+2026-09-30|2517052016|Iztihadi|izin
+2026-09-30|2517052006|Safira Rizki Putri|hadir
+2026-09-30|0000000002|Hanif Sulton Aulia Marlen|hadir
+2026-09-30|2517052034|Ramadian Pasesa|hadir
+2026-09-30|2517052019|Elfrada P Napitupulu|sakit
+2026-09-30|2517052022|Dinata Hendra Ramadhan|sakit
+2026-09-30|2517052024|Rudhi|izin
 2026-10-07|2517052031|Bunga Permata Sari|hadir
-2026-10-07|2517052005|Nadia Delta Amanda|hadir
-2026-10-07|2517052009|Maimuna Yulianti|hadir
-2026-10-07|2517052014|Erni Mayasari|hadir
-2026-10-07|2517052018|Bunga Wulan Sari|hadir
-2026-10-07|2517052022|Rahul Hukama Zulda|hadir
-2026-10-07|2517052027|Muhammad Dzulqornain|hadir
-2026-10-07|2517052036|Suhatio Harianja|sakit
-2026-10-07|2517052040|Arifah Kamilia Putri|hadir
-2026-10-07|2517052044|Dinata Hendra Ramadhan|hadir
-2026-10-07|2517052048|Tegar Pasetya|hadir
-2026-10-07|2517052052|Ragil Aditya Saputra|alpa
+2026-10-07|2517052010|Nadia Delta Amanda|hadir
+2026-10-07|2517052026|Maimuna Yulianti|hadir
+2026-10-07|2517052015|Ricky Darmawan|hadir
+2026-10-07|2517052017|Ragil Aditya Saputra|hadir
+2026-10-07|2517052014|Putria Alya Maharani|alpa
+2026-10-07|2517052029|Audi Putri Cressya|hadir
+2026-10-07|2517052030|Rahul Hukama Zulda|hadir
+2026-10-07|2517052033|Suhatio Harianja|hadir
+2026-10-07|2517052041|Arifah Kamilia Aulia|hadir
+2026-10-07|2517052004|Naila Zahrah Ramadhani|hadir
+2026-10-07|2517052005|Variza Agustin Rachmedita|hadir
+2026-10-07|2517052018|Hofifah Indar Parawansa|hadir
+2026-10-07|2517052036|Rista Aprilia|hadir
+2026-10-07|2517052021|Bunga Wulan Sari|hadir
+2026-10-07|2517052025|Devina Adelia Putri|hadir
+2026-10-07|2517052027|Nur Elia Sofia|alpa
+2026-10-07|2517052037|Muhammad Ibnu Pratama Putra|alpa
+2026-10-07|2517052028|Tegar Prasetya Ramadhan Murti|hadir
+2026-10-07|2517052016|Muhammad Naufal Rofiqurrohim|hadir
+2026-10-07|2517052001|Akbar Rohman Fadilah|hadir
+2026-10-07|2517052013|A Gusti Sahwan Zaki|hadir
+2026-10-07|2517052007|Maulana Zidan Fernandi|hadir
+2026-10-07|2517052009|Ahmad Sidiq Febriansyah|alpa
+2026-10-07|2517052003|Erni Mayasari|izin
+2026-10-07|2517052011|Chelsea Alifah Islamy Munawar|alpa
+2026-10-07|2517052008|Yasmin|hadir
+2026-10-07|2517052012|Zahra Chintya Bela|hadir
+2026-10-07|2517052016|Iztihadi|hadir
+2026-10-07|2517052006|Safira Rizki Putri|hadir
+2026-10-07|2517052023|Hanif Sulton Aulia Marlen|hadir
+2026-10-07|2517052034|Ramadian Pasesa|hadir
+2026-10-07|2517052019|Elfrada P Napitupulu|sakit
+2026-10-07|2517052022|Dinata Hendra Ramadhan|hadir
+2026-10-07|2517052024|Rudhi|hadir
 2026-10-07|abc|Contoh Rusak|hadir
